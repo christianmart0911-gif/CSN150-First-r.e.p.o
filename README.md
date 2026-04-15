@@ -1,6 +1,6 @@
 # CSN150-First-r.e.p.o
-This is an image
-![ALBUM OF THE YEAR](Images/ab67616d0000b273062f9b3af7c96bca8fb13466.jfif)
+AOTY
+![](Images/ab67616d0000b273062f9b3af7c96bca8fb13466.jfif)
 
 
 
