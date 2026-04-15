@@ -2,4 +2,4 @@
 ##Height  
 **5`4**  
 ###MAX BENCH PRESS###  
-~235~  
+<ins>235</ins> 
