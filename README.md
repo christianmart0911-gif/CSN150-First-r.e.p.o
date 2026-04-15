@@ -2,6 +2,14 @@
 AOTY
 ![](Images/ab67616d0000b273062f9b3af7c96bca8fb13466.jfif)  
 ![](https://i.imgur.com/R7becDL.png)  
+LIST  
+- Number 1
+- Number 2
+- Number 3
+
+## TASK LIST 
+- [x] Completed
+- [ ] Not Completed
 
 
 
