@@ -6,5 +6,6 @@ Just Practice
 *italics*  
 ~strikethrough~  
 ***BOLD(WITH SPICE)***  
-Hello <sub>subscript</sub>  
-  
+Hello <sub>subscript</sub>  <sup>superscript</sup>  
+<ins>underline</ins>  
+
