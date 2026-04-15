@@ -2,3 +2,8 @@
 Just Practice
 ## Second Heading
 ### Third Heading
+**BOLD**
+*italics*
+~strikethrough~
+***BOLD(WITH SPICE)***
+Hello <sub>subscript</sub>
