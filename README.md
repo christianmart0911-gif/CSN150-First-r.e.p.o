@@ -1,6 +1,7 @@
 # CSN150-First-r.e.p.o
 Just Practice 
-The link is here [YouTube](https://youtube.com)
+The link is here [YouTube](https://youtube.com)  
+Relative link: [README2.md](/README2.md)
 
 
 
